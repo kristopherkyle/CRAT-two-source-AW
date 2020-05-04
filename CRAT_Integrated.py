@@ -107,12 +107,8 @@ indir = "mydata/myfiles/" #This is an example. All .txt files in the "myfiles/" 
 outdir = "mydata/myresults.csv" #This is an example. This is the name of your outputfile
 
 #source text name - 
-# source_1 = "mydata/Leture_Source_Text.txt" #This is an example. This is the name of your first source text (it will be referred to as "listening" and/or "L" in the results)
-# source_2 = "mydata/Reading_Source_Text.txt" #This is an example. This is the name of your second source text (it will be referred to as "reading" and/or "R" in the results)
-
-
-source_1 = "mydata/Indy-Form1-text_Speaking.txt" #This is an example. This is the name of your first source text (it will be referred to as "listening" and/or "L" in the results)
-source_2 = "mydata/Indy-Form1-text_reading.txt" #This is an example. This is the name of your second source text (it will be referred to as "reading" and/or "R" in the results)
+source_1 = "mydata/Leture_Source_Text.txt" #This is an example. This is the name of your first source text (it will be referred to as "listening" and/or "L" in the results)
+source_2 = "mydata/Reading_Source_Text.txt" #This is an example. This is the name of your second source text (it will be referred to as "reading" and/or "R" in the results)
 
 #############################################
 
